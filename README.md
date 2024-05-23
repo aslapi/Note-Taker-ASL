@@ -10,11 +10,11 @@ The purpose of this web application is to keep track of notes with specific desc
 
 ## Installation
 
-There are no installation steps required for this project. Simply click the link provided: XXXXXX or you can clone the repository titled Note-Taker-ASL and launch the index.html file in your default browser.
+Clone the repository on my GitHub account titled Note-Taker-ASL. Once cloned onto your local machine, run "npm i" in the server.js file.
 
 ## Usage
 
-Usage
+Once you've cloned the repository, run "node server.js" in the integrated terminal for the server.js file. You'll see which port the application is running on in the console log. Open a browser and navigate to localhost:(PORT). From there you will be able to use the note taking application.
 
 Attached is a screenshot of what the website should look like when visiting.
 
