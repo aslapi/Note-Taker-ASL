@@ -18,4 +18,5 @@ Once you've clicked on the link, click get started to start using the applicatio
 
 Attached is a screenshot of what the website should look like when visiting.
 
-![Alt text](./assets/images/webpage.png?raw=true "Webpage")
+![Alt text](./public/assets/images/homepage.png?raw=true "Homepage")
+![Alt text](./public/assets/images/notespage.png?raw=true "Notes page")
